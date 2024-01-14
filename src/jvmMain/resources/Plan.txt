@@ -1,0 +1,62 @@
+El ano tiene 12 meses que los podemos dividir en 4 ciclos cada uno de 3 meses
+
+
+cada ciclo lo podrmos usar para logar 3 cosas
+        - algo de primordial importancia
+        - algo medianamente importante
+        - algo de no mucha importancia
+
+
+
+        -- Algo de gran Imporatncia :
+            - Aqui puedo pensar en algo como certificaciones, si algo me ha ensenado trabajar en diferentes companias es que
+            lo que se queda es el papel que puedas lograr de esa compania y una certificacion valiosa tambien me valida clases
+            en la universidad y tambien las certificaciones sirven para reforzar tu conocimiento , asi que hay que elegir
+            unas que te acerquen mas al camino que quieres lograr , hasta ahora creo que tengo un poco definido el camino
+            que quiero tomar pero no me quiero encerrar en una caja y mejor darme la oportunidad de probar difeentes areas
+            de la industria.
+
+
+        -- Algo medianamente importante
+            - Aqui puedo poner algo mas como trabajos personales , en base a mantener mis skills sharp, por ejemplo mejorar
+            en algun conjunto de technologias en especific0 , tranquilo en ano es grande y vas a tener la oportunidad de
+            estudiar muchas cosas , es mejor aprender algo de buena manera que no correr y no levarte nada en el camino.
+
+            Puedo enfatizarme en mejorar un conjunto en especifico o complementarlo con la certificacion que este estudiando ,
+            para java puedo incluir Spring boot y para AWS puedo incluir estudar su servicios mientras ,
+
+
+        -- Algo de no mucha imnportancia
+           - Puedo mejorar mis aspctos sociales , entrenar mi mente y mi cuerpo, trabajar mas en base a mis conecciones ,
+           en mi networking en base a conseguir un trabajo.
+           - Tambien puedo mejorar o cambiar addicones , y tambien trabajar en mejorar en cuanto a otros , saber lidiar
+           con la gente y no dejar que mi ira me consuma .
+
+
+
+
+
+     -- Cada Cliclo consta de 3 meses por lo que podemos distribuir cada ciclo en 3 partes cada una de un mes
+
+        -- Asi puedo ponerme objectivos mas especificos en cuanto al tiempo o duracion de ciertas cosas, como tiempo de
+        estudio o cosas asi .
+
+
+        -- Al final de cada sub-ciclo es decir al final de cada mes voy a ponerme una miniprueba y repasar la estrategia
+        esto es una base , pero ya con practica y segun mis nesecidades ya la ire actualizando.
+
+
+        --Cada Mes tiene 4 semanas y podemos llamarlo Capitulo en cada capitulo Puedo Ponerme un objetivo en especifico
+
+            -- Puedo Usar esto para aprenderme un capitulo/ technologia / clase en especifco y distribuir el estudio
+            en tiempos me dara un mejor margen para trabajar en optimizarme y tambien mantner mejor progreso de mi
+            aprendizaje
+
+
+
+           -- En cada Semana Puedo Distribuirla en 5 y asi darme 2 dias pensamiento libre
+
+            -- Cada Semana Puede Tener un Topic en especifico y tambien tener varios sub - topics
+
+
+                -- Puedo dividir cada dia para un tema en especifico
