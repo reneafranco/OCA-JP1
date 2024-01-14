@@ -56,7 +56,7 @@
 
             --Object Oriented -- Una filosofia que permite disenar, planear y programar en base a modelos de la vida real
 
-            --
+            -- Permite Crear Robustas aplicaciones 
 
 
 
